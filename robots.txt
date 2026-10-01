@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jayanth478.github.io/Portfolio-jayanth/sitemap.xml
